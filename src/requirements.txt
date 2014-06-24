@@ -1,0 +1,4 @@
+M2Crypto==0.22.3
+pycrypto==2.6.1
+vboxapi==1.0
+wsgiref==0.1.2

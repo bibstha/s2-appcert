@@ -1,0 +1,23 @@
+<Manifest>
+	<Name>Appnew</Name>
+	<RequiredContextModel>AppCert/src/model</RequiredContextModel>
+	<ModelDirectory>/Users/bibek/Projects/s2-heeren/</ModelDirectory>
+	<ComputationalResources>SciPy</ComputationalResources>
+	<Resilience>3</Resilience>
+	<Version>1.1</Version>
+	<DeveloperID>38400000-8cf0-11bd-b23e-10b96e40000d</DeveloperID>
+	<ExecutableJarHash>
+		<HashAlgorithm>SHA1</HashAlgorithm>
+		<Hash>d98bc32053857dd569c310f3d603e074358565e4</Hash>
+	</ExecutableJarHash>
+	<ReaderIDs>
+		<ID>Reader1</ID>
+		<ID>Reader2</ID>
+		<ID>Reader3</ID>
+	</ReaderIDs>
+	<WriterIDs>
+		<ID>Writer1</ID>
+		<ID>Writer2</ID>
+		<ID>Writer3</ID>
+	</WriterIDs>
+</Manifest>
