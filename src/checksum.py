@@ -1,7 +1,8 @@
 from Crypto.Hash import SHA 
 
 class Check:
-    def get_file_checksum(self,filename):
+    @staticmethod
+    def get_file_checksum(filename):
         h = SHA.new()
         chunk_size = 8192
         with open(filename, 'rb') as f:

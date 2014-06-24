@@ -121,11 +121,11 @@ def getMaximizedModel(model_id, model_dir):
     try:
         subprocess.call(['java','-jar','modelValidator.jar','-a',model_id,'-r',model_dir,'-s',MAXIMIZED_MODEL_FILE])
     except Exception:
-        print "Java Exception: ", Exception.message
+        print Exception.message
         
 #method execution for validating model.xml file
 arg1,arg2 = extract_model_id(MANIFEST_FILE)
-# getMaximizedModel(arg1,arg2)
+getMaximizedModel(arg1,arg2)
 
 
 #Generate public and private keys for developer
