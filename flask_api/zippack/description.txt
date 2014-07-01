@@ -1,0 +1,1 @@
+This folder contains all the temp files like uncompressed file and files created for validation purposes is put in this folder. 

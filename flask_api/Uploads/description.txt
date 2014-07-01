@@ -1,0 +1,1 @@
+This folder contains the uploads done by S2Store of public key of developer and compressed file containing certificate and all other necessary file.
