@@ -28,7 +28,7 @@ distribute==0.6.37
 duplicity==0.6.21
 gyp==0.1
 html5lib==0.95
-httplib2==0.8
+httplib2==0.18.0
 itsdangerous==0.24
 joblib==0.7.0
 keyring==1.6
