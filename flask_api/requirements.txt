@@ -67,7 +67,7 @@ pytz==2012c
 pyxdg==0.25
 radiotray==0.7.3
 reportlab==2.6
-requests==1.2.3
+requests==2.20.0
 rhythmbox-ubuntuone==13.10
 scikit-learn==0.14.1
 scipy==0.12.0
