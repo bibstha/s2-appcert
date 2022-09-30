@@ -30,7 +30,7 @@ gyp==0.1
 html5lib==0.95
 httplib2==0.8
 itsdangerous==0.24
-joblib==0.7.0
+joblib==1.2.0
 keyring==1.6
 launchpadlib==1.10.2
 lazr.restfulclient==0.13.3
